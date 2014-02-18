@@ -1,7 +1,7 @@
-Lab 2.1
+Lab 2.01
 ====
 
-Lab 2.1
+Lab 2.01
 
 ![Splash Icon](img/splash_icon.png)
 
